@@ -1,1 +1,1 @@
-print("Nasılsın")
+print("Merhaba Dünya")
